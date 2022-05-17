@@ -87,51 +87,303 @@ let producto13={
     nombre:"Hersheys",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-5dedd.appspot.com/o/hersheys.jfif?alt=media&token=6abdf5f9-c352-4bda-aa9d-8f06420f626b"
 }
 
 let producto14={
-    nombre:"producto14",
+    nombre:"Jet",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-5dedd.appspot.com/o/jet.jfif?alt=media&token=d454a589-4696-4365-83e9-2bb324c4a61e"
 }
 
 let producto15={
+    nombre:"Milkyway",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-5dedd.appspot.com/o/milkyway.jfif?alt=media&token=1b8c6fea-87d4-4314-a4d7-504062fb95fe",
+    pais:"",
+    popularidad:""
+}
+let producto16={
+    nombre:"MyM",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-5dedd.appspot.com/o/mym.jfif?alt=media&token=05e1ebdd-0c72-4d53-927d-6691cef1063e",
+    pais:"",
+    popularidad:""
+}
+let producto17={
+    nombre:"Ponky nucita",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-5dedd.appspot.com/o/ponky%20nucita.jfif?alt=media&token=919783fd-f73f-4bc5-a96c-ecc77d02c562",
+    pais:"",
+    popularidad:""
+}
+let producto18={
+    nombre:"Ponky vainilla",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-5dedd.appspot.com/o/ponky%20vainilla.jfif?alt=media&token=fbecd7b3-4072-47b0-9f8a-b0eb38d19399",
+    pais:"",
+    popularidad:""
+}
+let producto19={
+    nombre:"Snickers",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-5dedd.appspot.com/o/snickers.jfif?alt=media&token=6586124b-6831-4f98-ab2f-c89306c2c218",
+    pais:"",
+    popularidad:""
+}
+let producto20={
+    nombre:"twix",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"https://firebasestorage.googleapis.com/v0/b/tiendita-5dedd.appspot.com/o/twix.jfif?alt=media&token=4e87391d-321a-42c7-903c-859602928dff",
+    pais:"",
+    popularidad:""
+}
+let producto21={
     nombre:"producto15",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"",
+    pais:"",
+    popularidad:""
 }
-let producto16={
-    nombre:"producto16",
+let producto22={
+    nombre:"producto15",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"",
+    pais:"",
+    popularidad:""
 }
-let producto17={
-    nombre:"producto17",
+let producto23={
+    nombre:"producto15",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"",
+    pais:"",
+    popularidad:""
 }
-let producto18={
-    nombre:"producto18",
+let producto24={
+    nombre:"producto15",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"",
+    pais:"",
+    popularidad:""
 }
-let producto19={
-    nombre:"producto19",
+let producto25={
+    nombre:"producto15",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"",
+    pais:"",
+    popularidad:""
 }
-let producto20={
-    nombre:"producto20",
+let producto26={
+    nombre:"producto15",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto27={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto28={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto29={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto30={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto31={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto32={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto33={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto34={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto35={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto36={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto37={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto38={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto39={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto40={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto41={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto42={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto43={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto44={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto45={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto46={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto47={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto48={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto49={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
+}
+let producto50={
+    nombre:"producto15",
+    precio:500000,
+    estado:"Nuevo",
+    foto:"",
+    pais:"",
+    popularidad:""
 }
 
 //ARREGLO
@@ -156,6 +408,36 @@ let productos=Array(
     producto18,
     producto19,
     producto20,
+    producto21,
+    producto22,
+    producto23,
+    producto24,
+    producto25,
+    producto26,
+    producto27,
+    producto28,
+    producto29,
+    producto30,
+    producto31,
+    producto32,
+    producto33,
+    producto34,
+    producto35,
+    producto36,
+    producto37,
+    producto38,
+    producto39,
+    producto40,
+    producto41,
+    producto42,
+    producto43,
+    producto44,
+    producto45,
+    producto46,
+    producto47,
+    producto48,
+    producto49,
+    producto50,
 )
 
 //RECORRO EL ARREGLO
